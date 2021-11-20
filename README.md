@@ -1,7 +1,7 @@
 # Mansour Koura
 
 
-- 👋 Hi, I am @manssorr[GitHub].
+- 👋 Hi, I am @manssorr [GitHub].
 - 👀 I am interested in Software Engineering.
 - 🌱 I am currently learning web development.
 - 🧑‍💻 I am currently at graduation year of Computer Engineering collage.
